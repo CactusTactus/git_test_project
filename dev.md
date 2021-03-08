@@ -1,3 +1,1 @@
-# dev branch
-# edited on GitHub
-# edited on GitKraken
+# edited on master stash (1)
